@@ -2,6 +2,10 @@ baseURL = 'https://adahlen.ninja'
 languageCode = 'en-us'
 title = 'Alex Dahlen'
 theme = 'resume'
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
 
 [params]
 address = "Minnesota - United States"
@@ -10,7 +14,7 @@ favicon = "/favicon.ico"
 firstName = "Alex"
 lastName = "Hannegrefs-Dahlen"
 phone = "1(507)402-5415"
-profileImage = "img/TechChat.png"
+profileImage = "/favicon.ico"
 showEducation = true
 showExperience = true
 showOpenSource = false
@@ -18,3 +22,9 @@ showProjects = false
 showPublications = false
 showQr = false
 showSkills = true
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
