@@ -1,4 +1,4 @@
-baseURL = 'http://adahlen.ninja'
+baseURL = 'https://adahlen.ninja'
 languageCode = 'en-us'
 title = 'Alex Dahlen'
 theme = 'resume'
