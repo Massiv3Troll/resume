@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Systems Administrator",
+        "company":"Wenger Corporation",
+        "summary":"\n- Managing servers, desktops, applications, policies, and 500 users in a Citrix environment.\n- Assisting network segmentation and Zero-Trust initiatives.\n- Implementing security patches on several systems.\n- Designing and Implementing PowerShell scripts to reduce repetitive administrative tasks.",
+        "range":"May 2022 - Present"
+    },
+    {
+        "role":"Systems Administrator",
+        "company":"Freeborn County",
+        "summary":"\n- Imaged desktops and installed programs through SCCM, Installing workstations.\n- Supported users through email, phone, and in person communications.\n- Administrated Windows Server 2016/2019 running SQL, IIS, SSL, File Shares, Active Directory.\n- Maintained high availability and security to law enforcement and first response systems.",
+        "range":"July 2020 - May 2022"
+    },
+    {
+        "role":"Technology Master",
+        "company":"Courtesy Corporation",
+        "summary":"\n- Maintained POS, Menu Displays, and Kitchen Video System equipment and network.\n- Ran training initiatives on new technologies and practices.\n- Delegated tasks to restaurant staff and supervised performance.",
+        "range":"September 2019 - July 2020"
+    },
+    {
+        "role":"Academis Coach",
+        "company":"Neumont College of Computer Science",
+        "summary":"\n- Helped 30 students comprehend course objectives through real world examples\n- Worked with students on achieving life and academic goals",
+        "range":"June 2019 - August 2019"
+    },
+    {
+        "role":"System Administrator",
+        "company":"Neumont College of Computer Science",
+        "summary":"\n- Managed documentation, configurations, firmware, and setup of the student lab.\n- Designed IPv4 networks to give students freedom and security in a lab environment",
+        "range":"Janurary 2019 - August 2019"
+    }
+]

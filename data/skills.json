@@ -1,0 +1,57 @@
+[
+  {
+    "grouping":"Operating Systems",
+      "skills":[
+          {"name":"Windows Server","link":"https://www.microsoft.com/en-us/windows-server"},
+          {"name":"Linux"}
+      ]
+  },
+  {
+    "grouping":"Applications",
+    "skills":[
+      {"name":"Koerber HighJump WMS","link":"https://www.koerber-supplychain.com/"},
+      "Citrix",
+      "IGEL"
+    ]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        "MongoDB"
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"Azure","link":"https://azure.microsoft.com"}
+      ]
+  },
+  {
+    "grouping":"EndPoint Secuirty",
+      "skills":[
+          {"name":"CrowdStrike"},
+          {"name":"Kaspersky Endpoint"}
+      ]
+  },
+  {
+    "grouping":"Networking",
+      "skills":[
+          {"name":"Layer 2 Switching & vLAN"},
+          {"name":"Layer 3 Routing"},
+          {"name":"SD-WAN"},
+          {"name":"VPN"},
+          {"name":"Zero Trust"}
+      ]
+  },
+  {
+    "grouping":"Progamming and Scripting",
+      "skills":[
+          {"name":"C#"},
+          {"name":"JAVA"},
+          {"name":"PowerShell"},
+          {"name":"BASH"}
+      ]
+  }
+]
