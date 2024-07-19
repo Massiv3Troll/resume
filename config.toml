@@ -22,9 +22,3 @@ showProjects = false
 showPublications = false
 showQr = false
 showSkills = true
-
-[outputs]
-home = ["HTML", "JSON"]
-
-[taxonomies]
-tag = "tags"

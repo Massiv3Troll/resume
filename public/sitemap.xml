@@ -2,12 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://adahlen.ninja/</loc>
+    <loc>https://adahlen.ninja/</loc>
     <lastmod>2023-06-16T20:42:48-05:00</lastmod>
     <priority>1</priority>
   </url><url>
-    <loc>http://adahlen.ninja/categories/</loc>
-  </url><url>
-    <loc>http://adahlen.ninja/tags/</loc>
+    <loc>https://adahlen.ninja/tags/</loc>
   </url>
 </urlset>
