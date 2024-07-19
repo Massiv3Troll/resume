@@ -1,9 +1,15 @@
 [
     {
+        "role":"IT Infrastructure and Security Lead",
+        "company":"Wenger Corporation",
+        "summary":"\n- Identifying, developing, implementing and managing security tools and procedures that ensure threats are effectively manage and risks are mitigated. \n- Recommending and implementing solutions to complex technical architecture by relying on extensive experience, judgement, and technical knowledge. \n- Setting department standards, procedures, policies and techniques.",
+        "range":"September 2023 - Preset"
+    },
+    {
         "role":"Systems Administrator",
         "company":"Wenger Corporation",
-        "summary":"\n- Managing servers, desktops, applications, policies, and 500 users in a Citrix environment.\n- Assisting network segmentation and Zero-Trust initiatives.\n- Implementing security patches on several systems.\n- Designing and Implementing PowerShell scripts to reduce repetitive administrative tasks.",
-        "range":"May 2022 - Present"
+        "summary":"\n- Managed servers, desktops, applications, policies, and 500 users in a Citrix environment.\n- Assisted network segmentation and Zero-Trust initiatives.\n- Implemented security patches on several systems.\n- Designed and Implemented PowerShell scripts to reduce repetitive administrative tasks.",
+        "range":"May 2022 - September 2023"
     },
     {
         "role":"Systems Administrator",
