@@ -11,4 +11,4 @@ outputs:
 - json
 ---
 
-Skilled in Windows System Administration, Relational and Non-relational Databases, Network Administration and Design. Strong problem solver professional with a Computer Information Systems degree in from Neumont College of Computer Science. Experienced Shift Manager with a demonstrated history of working in customer service.
+Skilled in Windows System Administration, Relational and Non-Relational Databases, Network Administration, and Design. Strong problem-solving professional with a Computer Information Systems degree from Neumont College of Computer Science. Experienced shift manager with a demonstrated history of working in customer service.
