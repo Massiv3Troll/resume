@@ -11,4 +11,4 @@ outputs:
 - json
 ---
 
-Skilled in Windows System Administration, Relational and Non-Relational Databases, Network Administration, and Design. Strong problem-solving professional with a Computer Information Systems degree from Neumont College of Computer Science. Experienced shift manager with a demonstrated history of working in customer service.
+Driven IT professional with a robust background in infrastructure management, cybersecurity, and Windows administration. I leverage my technical expertise to boost informational security, fortify technical defenses, contribute to strategic business growth and improve operational excellence.
