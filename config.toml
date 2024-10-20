@@ -22,3 +22,14 @@ showProjects = false
 showPublications = false
 showQr = false
 showSkills = true
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/dahlenalex/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/Massiv3Troll/"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
