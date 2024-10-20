@@ -1,0 +1,115 @@
+BasicInfo:
+  FirstName: Alex
+  LastName: Dahlen
+  Photo: favicon.ico
+  Contacts:
+    - Icon: fas fa-phone
+      Info: <a class="contact__link" href="tel:15074025415" target="_blank">+1 507 402 5415</a>
+    - Icon: fas fa-envelope
+      Info: <a class="contact__link" href="mailto:dahlen.alex@proton.me" target="_blank">dahlen.alex@proton.me</a>
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://adahlen.ninja" target="_blank">adahlen.ninja</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Minnesota, US
+
+Profile: Driven IT professional with a robust background in infrastructure management, cybersecurity, and Windows administration. I leverage my technical expertise to boost informational security, fortify technical defenses, contribute to strategic business growth and improve operational excellence.
+
+Experience:
+  - Employer: Wenger Corporation
+    Place: Owatonna, MN
+    Positions:
+      - Title: IT Infrastructure and Security Lead
+        Date: Sep 2023 - Present
+        Details:
+          - Performing incident commander duties.
+          - Identifying, developing, implementing and managing security tools and procedures that ensure threats are effectively manage and risks are mitigated.
+          - Recommending and implementing solutions to complex technical architecture by relying on extensive experience, judgement, and technical knowledge.
+          - Setting department standards, procedures, policies and techniques.
+        Badges: ['Veeam Backup and Recovery', 'Crowdstrike Falcon', 'IT Infrastructure Management', 'Fortinet', 'Juniper MIST']
+      - Title: Systems Administrator
+        Date: May 2022 - Sep 2023
+        Details:
+          - Managed servers, desktops, applications, policies, and 500 users in a Citrix environment.
+          - Assisted network segmentation and Zero-Trust initiatives.
+          - Implemented security patches on several systems.
+          - Designed and Implemented PowerShell scripts to reduce repetitive administrative tasks.
+        Badges: ['Koerber HighJump WMS', 'Epicor ERP', 'Citrix Remote Apps', 'IGEL', 'Entra ID']
+  - Employer: Freeborn County Minnesota
+    Place: Albert Lea, MN
+    Positions:
+      - Title: Systems Administrator
+        Date: Jul 2020 - May 2022
+        Details:
+          - Imaged desktops and installed programs through SCCM, Installing workstations.
+          - Supported users through email, phone, and in person communications.
+          - Administrated Windows Server 2016/2019 running SQL, IIS, SSL, File Shares, Active Directory.
+          - Maintained high availability and security to law enforcement and first response systems.
+        Badges: ['PowerShell', 'VPN', 'MS SQL Server', '']
+
+Education:
+  - Course: MBA in Information Technology Management
+    Place: Southern New Hampshire University
+    Date: May 2024 - Aug 2025
+    Details: As an SNHU MBA student, I’ll master the skills necessary to lead teams, manage initiatives, and gain essential business acumen. With my specialization in information technology management, I’ll learn about the latest IT technology and its practical application in organizational management.
+  - Course: BSc in Computer Information Systems
+    Place: Neumont College of Computer Science
+    Date: Sep 2016 - Aug 2019
+    Details: The BSIS program emphasizes network engineering, virtualization technology, server technology, systems integration and security. This program is focused on the administration of networks using a variety of technologies and operating systems. I also learned about the integration of mobile devices, cloud-based technologies, security frameworks, and the importance of making appropriate business-related decisions.
+
+#References:
+#  - Name: Person One
+#    Relation: Co-worker at Super Cool Company
+#    Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 790
+#    - Icon: fas fa-envelope
+#      Info: contact@person-one.com
+#    - Icon: fas fa-map-marker-alt
+#      Info: Melbourne, Australia
+#  - Name: Person Two
+#    Relation: Boss at Super Cool Company
+#    Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 791
+#    - Icon: fas fa-envelope
+#      Info: contact@person-two.com
+#    - Icon: fas fa-map-marker-alt
+#      Info: Sydney, Australia
+
+Skills:
+  - Family: Operating Systems
+    Items:
+      - Windows Server
+      - Windows Desktop
+  - Family: Applications
+    Items:
+      - Koerber HighJump WMS
+      - Citrix
+      - IGEL
+  - Family: Data Management
+    Items:
+      - Microsoft SQL Server
+      - PostgreSQL
+      - MongoDB
+  - Family: Container & Cloud
+    Items:
+      - Docker
+      - K3S
+      - Azure
+  - Family: Networking
+    Items:
+      - Layer 2 Switching and vLAN
+      - Layer 3 Routing
+      - SD-WAN
+      - VPN
+      - Zero Trust
+  - Family: Programming and Scripting
+    Items:
+      - PowerShell
+      - BASH
+      - JAVA
+      - C#
+
+Languages:
+  - Name: English
+    Level: Native

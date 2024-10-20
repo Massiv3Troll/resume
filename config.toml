@@ -1,35 +1,29 @@
-baseURL = 'https://adahlen.ninja'
-languageCode = 'en-us'
-title = 'Alex Dahlen'
-theme = 'resume'
-PygmentsCodeFences = true
-PygmentsCodeFencesGuessSyntax = true
-PygmentsStyle = "monokai"
-enableGitInfo = false
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+colorscheme = 'dark'
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://adahlen.ninja"
+title = "Alex Dahlen | ADahlen Techs"
+#googleAnalytics = ""
 
 [params]
-address = "Minnesota - United States"
-email = "dahlen.alex@proton.me"
-favicon = "/favicon.ico"
-firstName = "Alex"
-lastName = "Dahlen"
-phone = "1(507)402-5415"
-profileImage = "/favicon.ico"
-showEducation = true
-showExperience = true
-showOpenSource = false
-showProjects = false
-showPublications = false
-showQr = false
-showSkills = true
-
-[[params.handles]]
-link = "https://www.linkedin.com/in/dahlenalex/"
-name = "LinkedIn"
-
-[[params.handles]]
-link = "https://github.com/Massiv3Troll/"
-name = "GitHub"
-
-[outputs]
-home = ["HTML", "JSON"]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#666"
+colorPageBackground = "#ddd"
+colorPrimary = "#BD5D38"
+colorSecondary = "#aaa"
+colorIconPrimary = "#fff"
+colorIconBackground = "#BD5D38"
+colorRightColumnBackground = "#f5f5f5"
+colorRightColumnHeadingText = "#666"
+colorRightColumnBodyText = "#666"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#BD5D38"
+pages = 1
+swapColumns = true
