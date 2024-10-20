@@ -5,7 +5,7 @@ enableEmoji = true
 colorscheme = 'dark'
 
 theme = "almeida-cv"
-disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+#disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
 baseURL = "https://adahlen.ninja"
 title = "Alex Dahlen | ADahlen Techs"
