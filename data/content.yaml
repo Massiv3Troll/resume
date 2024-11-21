@@ -25,7 +25,7 @@ Experience:
           - Identifying, developing, implementing and managing security tools and procedures that ensure threats are effectively manage and risks are mitigated.
           - Recommending and implementing solutions to complex technical architecture by relying on extensive experience, judgement, and technical knowledge.
           - Setting department standards, procedures, policies and techniques.
-        Badges: ['Veeam Backup and Recovery', 'Crowdstrike Falcon', 'IT Infrastructure Management', 'Fortinet', 'Juniper MIST']
+        Badges: []
       - Title: Systems Administrator
         Date: May 2022 - Sep 2023
         Details:
@@ -33,7 +33,7 @@ Experience:
           - Assisted network segmentation and Zero-Trust initiatives.
           - Implemented security patches on several systems.
           - Designed and Implemented PowerShell scripts to reduce repetitive administrative tasks.
-        Badges: ['Koerber HighJump WMS', 'Epicor ERP', 'Citrix Remote Apps', 'IGEL', 'Entra ID']
+        Badges: []
   - Employer: Freeborn County Minnesota
     Place: Albert Lea, MN
     Positions:
@@ -44,7 +44,7 @@ Experience:
           - Supported users through email, phone, and in person communications.
           - Administrated Windows Server 2016/2019 running SQL, IIS, SSL, File Shares, Active Directory.
           - Maintained high availability and security to law enforcement and first response systems.
-        Badges: ['PowerShell', 'VPN', 'MS SQL Server', '']
+        Badges: []
 
 Education:
   - Course: MBA in Information Technology Management
@@ -59,36 +59,42 @@ Education:
 Skills:
   - Family: Operating Systems
     Items:
-      - Windows Server
-      - Windows Desktop
-  - Family: Applications
+      - Linux Server
+      - Windows Server and Desktop
+  - Family: Technologies
     Items:
-      - Koerber HighJump WMS
-      - Citrix
-      - IGEL
+      - Endpoint Detection and Response (EDR)
+      - Firewalls and Network Segmentation
+      - Data Backup and Replication
   - Family: Data Management
     Items:
       - Microsoft SQL Server
       - PostgreSQL
       - MongoDB
-  - Family: Container & Cloud
+  - Family: Data Governance
+    Items:
+      - Data Loss Prevention (DLP)
+      - Privilegde Access Management (PAM)
+      - Insider Risk Managemen
+  - Family: Containers & Virtualization
     Items:
       - Docker
-      - K3S
-      - Azure
+      - Kubernetes K8s
+      - VMware ESXi
+      - Proxmox
+      - QEMU
   - Family: Networking
     Items:
-      - Layer 2 Switching and vLAN
+      - Layer 2 Switching and vLANs
       - Layer 3 Routing
       - SD-WAN
       - VPN
       - Zero Trust
-  - Family: Programming and Scripting
+  - Family: Scripting
     Items:
       - PowerShell
       - BASH
-      - JAVA
-      - C#
+      - Python
 
 Languages:
   - Name: English
