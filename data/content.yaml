@@ -10,7 +10,7 @@ BasicInfo:
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="https://adahlen.ninja" target="_blank">adahlen.ninja</a>
     - Icon: fas fa-map-marker-alt
-      Info: Minnesota, US
+      Info: Minnesota, USA
 
 Profile: Driven IT professional with a robust background in infrastructure management, cybersecurity, and Windows administration. I leverage my technical expertise to boost informational security, fortify technical defenses, contribute to strategic business growth and improve operational excellence.
 
@@ -55,26 +55,6 @@ Education:
     Place: Neumont College of Computer Science
     Date: Sep 2016 - Aug 2019
     Details: The BSIS program emphasizes network engineering, virtualization technology, server technology, systems integration and security. This program is focused on the administration of networks using a variety of technologies and operating systems. I also learned about the integration of mobile devices, cloud-based technologies, security frameworks, and the importance of making appropriate business-related decisions.
-
-#References:
-#  - Name: Person One
-#    Relation: Co-worker at Super Cool Company
-#    Contacts:
-#    - Icon: fas fa-phone
-#      Info: +44 123 456 790
-#    - Icon: fas fa-envelope
-#      Info: contact@person-one.com
-#    - Icon: fas fa-map-marker-alt
-#      Info: Melbourne, Australia
-#  - Name: Person Two
-#    Relation: Boss at Super Cool Company
-#    Contacts:
-#    - Icon: fas fa-phone
-#      Info: +44 123 456 791
-#    - Icon: fas fa-envelope
-#      Info: contact@person-two.com
-#    - Icon: fas fa-map-marker-alt
-#      Info: Sydney, Australia
 
 Skills:
   - Family: Operating Systems
