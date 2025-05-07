@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Minnesota, USA
 
-Profile: Driven IT professional with a robust background in infrastructure management, cybersecurity, and Windows administration. I leverage my technical expertise to boost informational security, fortify technical defenses, contribute to strategic business growth and improve operational excellence.
+Profile: Driven IT professional with a robust background in infrastructure management, cybersecurity, and Windows administration. I leverage my technical expertise to enhance information security, fortify technical defenses, contribute to strategic business growth and improve operational excellence.
 
 Experience:
   - Employer: Wenger Corporation
@@ -40,7 +40,7 @@ Experience:
       - Title: Systems Administrator
         Date: Jul 2020 - May 2022
         Details:
-          - Imaged desktops and installed programs through SCCM, Installing workstations.
+          - Imaged desktops and installed programs through SCCM, installed workstations.
           - Supported users through email, phone, and in person communications.
           - Administrated Windows Servers running SQL, IIS, SSL, File Shares, Active Directory.
           - Maintained high availability and security to law enforcement and first response systems.
@@ -50,7 +50,7 @@ Education:
   - Course: MBA in Information Technology Management
     Place: Southern New Hampshire University
     Date: May 2024 - Aug 2025
-    Details: As an SNHU MBA student, I’ll master the skills necessary to lead teams, manage initiatives, and gain essential business acumen. With my specialization in information technology management, I’ll learn about the latest IT technology and its practical application in organizational management.
+    Details: As an SNHU MBA student, I’ll master the skills necessary to lead teams, manage initiatives, and gain essential business acumen. With my specialization in information technology management, the latest IT advancements and its practical application in organizational management.
   - Course: BSc in Computer Information Systems
     Place: Neumont College of Computer Science
     Date: Sep 2016 - Aug 2019
@@ -74,8 +74,8 @@ Skills:
   - Family: Data Governance
     Items:
       - Data Loss Prevention (DLP)
-      - Privilegde Access Management (PAM)
-      - Insider Risk Managemen
+      - Privilege Access Management (PAM)
+      - Insider Risk Management
   - Family: Containers & Virtualization
     Items:
       - Docker
