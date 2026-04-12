@@ -68,73 +68,37 @@ Skills:
   - Family: Executive & Leadership
     Items:
       - IT Strategy & Roadmapping
-      - Cybersecurity Governance
-      - Incident Response Leadership
+      - Cybersecurity Governance & Program Ownership
+      - Incident Response Leadership (ICS/NIMS)
       - IT Steering Committee Facilitation
+      - Vendor & Third-Party Risk Management
       - Risk Management & Compliance
       - Policy & Standards Development
-      - Vendor & Contract Management
-      - Third-Party Risk Management
-      - AI Governance & Acceptable Use Policy
-      - Security Awareness Training (KnowBe4)
-      - Executive Security Reporting (S2Score)
-      - Jira Project & Service Management
+      - AI Governance & Acceptable Use
 
-  - Family: Infrastructure & Security
+  - Family: Security & Risk
     Items:
-      - Windows & Linux Server Environments
       - Zero Trust Architecture
-      - Endpoint Detection and Response (EDR)
-      - Firewalls & Network Segmentation (FortiGate)
-      - Backup, Disaster Recovery & Resilience
-      - Vulnerability Management (Tenable Nessus)
-      - Penetration Testing Coordination (FRSecure)
-      - 802.1X Network Access Control (NAC)
-      - OT/IT Network Segmentation
-      - Microsoft 365 & Entra ID
-      - Intune & Endpoint Management
-      - Windows Hello for Business & MFA
-      - Privileged Access Management (PAM)
-
-  - Family: Platforms & Tools
-    Items:
-      - Epicor ERP
-      - Salesforce
-      - Microsoft SQL Server
-      - PostgreSQL
-      - SharePoint & OneDrive Administration
-      - Jira Service Management (JSM)
-      - DocStar
+      - Vulnerability Management & Pen Test Coordination
+      - Endpoint Detection & Response (EDR/MDR)
+      - Identity & Access Management (Entra ID, PAM, MFA)
       - Data Loss Prevention (DLP)
       - SIEM & Security Monitoring
-      - Phish Alert & Email Security
+      - OT/IT Network Segmentation
 
-  - Family: Cloud, Virtualization & Containers
+  - Family: Infrastructure & Platforms
     Items:
-      - VMware ESXi & vCenter
-      - Proxmox
-      - Citrix (CVAD / MCS / IGEL)
-      - Docker
-      - Kubernetes (K8s)
-      - Hybrid Cloud Architecture
-      - Microsoft Autopilot & Intune Suite
-
-  - Family: Networking
-    Items:
-      - Layer 2/3 Switching & Routing
-      - SD-WAN
-      - VPN & Secure Remote Access
+      - Disaster Recovery & Business Continuity
+      - Hybrid Cloud & Virtualization (VMware, Proxmox)
+      - Microsoft 365 & Intune
+      - Citrix (CVAD/MCS)
+      - Firewalls & SD-WAN (FortiGate)
       - Multi-Site Network Integration
-      - FortiGate & Juniper EX Series
-      - Mist Wi-Fi (AP Deployment & Tuning)
-      - ISP & Circuit Management
-      - Out-of-Band (OOB) Management Networks
 
   - Family: Automation & Development
     Items:
-      - PowerShell
-      - Bash
-      - Python
+      - PowerShell & Bash Scripting
       - Infrastructure as Code (IaC)
+      - Python
       - REST API Integration
       - Git & Version Control
