@@ -23,12 +23,12 @@ Experience:
         Details:
           - Serve as Incident Response Commander and co-lead of the annual executive tabletop exercise program, directing cross-functional response teams and briefing C-suite on risk, impact, and remediation strategy.
           - Own the enterprise security program end-to-end — tooling selection, policy governance, incident response planning, and security awareness training deployed company-wide.
-          - Architect and enforce IT governance standards including a formal IT Steering Committee (ITSC) project intake, estimation, and prioritization framework supporting 40+ active projects across six business units.
-          - Led disaster recovery modernization achieving near-real-time RPO (5 minutes) and sub-30-minute RTO across Owatonna and Syracuse data centers — a step-change from 4-24 hour legacy recovery windows.
-          - Directed multi-site infrastructure integration for Texas Scenic (San Antonio) and Creative Conners (Cranston) acquisitions — deploying new firewalls, switching, wireless, domain migration, endpoint refresh, and ISP transitions.
-          - Managed enterprise security renewals and vendor relationships including Fortinet FortiClient EMS (600-seat), Tenable Nessus Professional, and MDR services, ensuring continuous vulnerability coverage.
-          - Defined Zero Trust architecture strategy, network segmentation standards, and vulnerability management programs aligned to manufacturing and operational continuity requirements.
-        Badges: []
+          - Architect and enforce IT governance standards including a formal IT Steering Committee project intake, estimation, and prioritization framework supporting 40+ active projects across six business units.
+          - Lead disaster recovery modernization achieving near-real-time RPO of five minutes and RTO under thirty minutes across primary and secondary data centers — a step-change from legacy recovery windows of four to twenty-four hours.
+          - Direct multi-site infrastructure integration for acquired subsidiaries — deploying firewalls, switching, wireless, domain migration, endpoint refresh, and ISP transitions across each new location.
+          - Manage enterprise security renewals and vendor relationships across endpoint protection, vulnerability management, and managed detection and response services, ensuring continuous coverage.
+          - Define Zero Trust architecture strategy, network segmentation standards, and vulnerability management programs aligned to manufacturing and operational continuity requirements.
+        Badges: ['IT Strategy', 'Incident Response', 'Zero Trust', 'Disaster Recovery', 'Governance', 'Vendor Management', 'FortiGate', 'Tenable', 'Entra ID', 'MDR']
       - Title: Systems Administrator
         Date: May 2022 - Sep 2023
         Details:
@@ -36,7 +36,7 @@ Experience:
           - Drove foundational network segmentation and Zero Trust initiatives that established the security baseline for future program expansion.
           - Designed and implemented PowerShell automation reducing manual operational overhead and improving system reliability.
           - Executed monthly patching and vulnerability remediation cycles across production systems, endpoints, and servers.
-        Badges: []
+        Badges: ['PowerShell', 'Citrix', 'Windows Server', 'Zero Trust', 'Network Segmentation', 'Patch Management', 'Automation']
   - Employer: Freeborn County Minnesota
     Place: Albert Lea, MN
     Positions:
@@ -46,14 +46,13 @@ Experience:
           - Managed Windows server infrastructure for law enforcement and emergency response systems in a regulated public-sector environment requiring high availability and strict security controls.
           - Administered Active Directory, SQL Server, IIS, SSL certificates, and file services supporting mission-critical county operations.
           - Built and deployed standardized workstation images using SCCM, accelerating onboarding and reducing configuration drift.
-        Badges: []
+        Badges: ['Active Directory', 'Windows Server', 'SQL Server', 'SCCM', 'SSL/PKI', 'High Availability']
 
 Education:
   - Course: MBA in Information Technology Management
     Place: Southern New Hampshire University
     Date: May 2024 - Aug 2025
-    Details: "Technology leadership & strategy • IT governance & risk management • Financial and organizational decision-making"
-  - Course: BSc in Computer Information Systems
+  - Course: BS in Computer Information Systems
     Place: Neumont College of Computer Science
     Date: Sep 2016 - Aug 2019
 
@@ -62,7 +61,9 @@ Volunteering:
     Organization: Hartland Fire Department
     Place: Hartland, MN
     Details:
-      - Certified EMR providing pre-hospital emergency care for a rural community
+      - Certified Emergency Medical Responder (EMR) providing pre-hospital emergency care for a rural community of ~400 residents across Hartland and surrounding areas
+      - Responds to medical emergencies, vehicle accidents, and fire incidents as part of a volunteer department serving a rural community with limited emergency service coverage
+      - Applies ICS/NIMS incident command principles in live emergency response, directly complementing enterprise Incident Response Commander responsibilities at Wenger Corporation
 
 Skills:
   - Family: Executive & Leadership
