@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Minnesota, USA
 
-Profile: Driven IT professional with a robust background in infrastructure management, cybersecurity, and Windows administration. I leverage my technical expertise to enhance information security, fortify technical defenses, contribute to strategic business growth and improve operational excellence.
+Executive Summary: IT and cybersecurity leader with enterprise experience designing, securing, and operating resilient infrastructure in regulated and manufacturing environments. Proven Incident Response Commander, security program owner, and infrastructure strategist with a completed MBA in Information Technology Management. Known for translating technical risk into business decisions, establishing IT governance and standards, and leading Zero Trust and defense‑in‑depth initiatives that protect operations and enable growth.
 
 Experience:
   - Employer: Wenger Corporation
@@ -21,18 +21,21 @@ Experience:
       - Title: IT Infrastructure and Security Lead
         Date: Sep 2023 - Present
         Details:
-          - Performing incident commander duties.
-          - Identifying, and managing security tools and procedures to effectively handle threats and mitigate risks.
-          - Recommending and implementing solutions to complex technical requirements.
-          - Setting IT department standards, procedures, policies and techniques.
+          - Serve as Incident Response Commander, directing response to security and infrastructure incidents and briefing executive leadership on risk, impact, and remediation.
+          - Own the organization’s enterprise security program, including security tooling, policies, procedures, and incident response planning.
+          - Define and enforce IT standards, governance, and operating procedures across infrastructure and security domains.
+          - Lead infrastructure and security strategy supporting Zero Trust architecture, network segmentation, and vulnerability management.
+          - Evaluate, recommend, and implement technology solutions aligned with business risk tolerance, operational continuity, and long‑term strategy.
+          - Partner with IT leadership and business stakeholders to ensure systems support manufacturing, operations, and growth objectives.
         Badges: []
       - Title: Systems Administrator
         Date: May 2022 - Sep 2023
         Details:
-          - Managed servers, desktops, applications, policies, and 250 users in a Citrix environment.
-          - Assisted network segmentation and Zero-Trust initiatives.
-          - Implemented security patches on several systems.
-          - Designed and Implemented PowerShell scripts to reduce repetitive administrative tasks.
+          - Administered enterprise Windows infrastructure supporting 250+ users in a Citrix environment.
+          - Led server, endpoint, and application administration across production systems.
+          - Supported network segmentation and Zero Trust initiatives, strengthening the organization’s security posture.
+          - Designed and implemented PowerShell automation to reduce operational overhead and improve reliability.
+          - Executed patching and vulnerability remediation across critical systems.
         Badges: []
   - Employer: Freeborn County Minnesota
     Place: Albert Lea, MN
@@ -40,60 +43,64 @@ Experience:
       - Title: Systems Administrator
         Date: Jul 2020 - May 2022
         Details:
-          - Imaged desktops and installed programs through SCCM, installed workstations.
-          - Supported users through email, phone, and in person communications.
-          - Administrated Windows Servers running SQL, IIS, SSL, File Shares, Active Directory.
-          - Maintained high availability and security to law enforcement and first response systems.
+          - Managed Windows server infrastructure supporting law enforcement and emergency response systems, ensuring high availability and security.
+          - Administered Active Directory, SQL Server, IIS, SSL, and file services in a regulated public‑sector environment.
+          - Built and deployed workstation images and software using SCCM.
+          - Delivered end‑user support via in‑person, phone, and email channels.
         Badges: []
 
 Education:
   - Course: MBA in Information Technology Management
     Place: Southern New Hampshire University
     Date: May 2024 - Aug 2025
-    Details: As an SNHU MBA student, I’ll master the skills necessary to lead teams, manage initiatives, and gain essential business acumen. With my specialization in information technology management, the latest IT advancements and its practical application in organizational management.
+    Details:
+      - Technology leadership and strategy
+      - IT governance and risk management
+      - Financial and organizational decision‑making
   - Course: BSc in Computer Information Systems
     Place: Neumont College of Computer Science
     Date: Sep 2016 - Aug 2019
-    Details: The BSIS program emphasizes network engineering, virtualization technology, server technology, systems integration and security. This program is focused on the administration of networks using a variety of technologies and operating systems. I also learned about the integration of mobile devices, cloud-based technologies, security frameworks, and the importance of making appropriate business-related decisions.
 
 Skills:
-  - Family: Operating Systems
+  - Family: Executive & Leadership
     Items:
-      - Linux Server
-      - Windows Server and Desktop
-  - Family: Technologies
+      - IT Strategy & Roadmapping
+      - Cybersecurity Governance
+      - Incident Response Leadership
+      - Risk Management & Compliance
+      - Policy & Standards Development
+  - Family: Infrastructure & Security
     Items:
+      - Windows & Linux Server Environments
+      - Zero Trust Architecture
       - Endpoint Detection and Response (EDR)
       - Firewalls and Network Segmentation
-      - Data Backup and Replication
-  - Family: Data Management
+      - Backup, Disaster Recovery & Resilience
+  - Family: Platforms & Data
     Items:
       - Microsoft SQL Server
       - PostgreSQL
       - MongoDB
-  - Family: Data Governance
-    Items:
+      - Data Protection
       - Data Loss Prevention (DLP)
-      - Privilege Access Management (PAM)
-      - Insider Risk Management
-  - Family: Containers & Virtualization
+      - Privileged Access Management (PAM)
+  - Family: Cloud, Virtualization & Containers
     Items:
-      - Docker
-      - Kubernetes K8s
       - VMware ESXi
       - Proxmox
       - QEMU
+      - Docker
+      - Kubernetes (K8s)
   - Family: Networking
     Items:
-      - Layer 2 Switching and vLANs
-      - Layer 3 Routing
+      - Layer 2/3 Switching & Routing
       - SD-WAN
       - VPN
-      - Zero Trust
-  - Family: Scripting
+      - Secure Remote Access
+  - Family: Automation
     Items:
       - PowerShell
-      - BASH
+      - Bash
       - Python
 
 #Languages:
