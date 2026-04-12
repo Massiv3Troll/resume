@@ -35,11 +35,12 @@ Experience:
       - Title: Systems Administrator
         Date: May 2022 - Sep 2023
         Details:
-          - Administered enterprise Windows and Citrix infrastructure supporting 250+ users across multiple facilities.
+          - Administered enterprise Windows and Citrix infrastructure supporting 250+ users across multiple facilities, including approximately 100 virtual machines across production, pilot, development, and administration environments totaling roughly 50TB of managed storage.
+          - Led the HighJump Warehouse Management System upgrade, coordinating across IT, operations, and the vendor to minimize downtime impact on warehouse and distribution workflows.
           - Drove foundational network segmentation and Zero Trust initiatives that established the security baseline for future program expansion.
           - Designed and implemented PowerShell automation reducing manual operational overhead and improving system reliability.
           - Executed monthly patching and vulnerability remediation cycles across production systems, endpoints, and servers.
-        Badges: ['PowerShell', 'Citrix', 'Windows Server', 'Zero Trust', 'Network Segmentation', 'Patch Management', 'Automation']
+        Badges: ['PowerShell', 'Citrix', 'Windows Server', 'Zero Trust', 'Network Segmentation', 'Patch Management', 'Automation', 'VMware', 'HighJump WMS']
   - Employer: Freeborn County Minnesota
     Place: Albert Lea, MN
     Positions:
@@ -47,9 +48,12 @@ Experience:
         Date: Jul 2020 - May 2022
         Details:
           - Managed Windows server infrastructure for law enforcement and emergency response systems in a regulated public-sector environment requiring high availability and strict security controls.
+          - Administered sole ownership of the WatchGuard body camera and digital evidence management system across police, sheriff, and prosecution offices — maintaining confidentiality, integrity, and availability of approximately 50TB of evidentiary data spanning multiple agencies.
+          - Ensured chain of custody compliance and access controls across a multi-agency evidence ecosystem with direct legal and prosecutorial dependencies.
           - Administered Active Directory, SQL Server, IIS, SSL certificates, and file services supporting mission-critical county operations.
           - Built and deployed standardized workstation images using SCCM, accelerating onboarding and reducing configuration drift.
-        Badges: ['Active Directory', 'Windows Server', 'SQL Server', 'SCCM', 'SSL/PKI', 'High Availability']
+        Badges: ['Active Directory', 'Windows Server', 'SQL Server', 'SCCM', 'SSL/PKI', 'High Availability', 'WatchGuard', 'Digital Evidence Management', 'Data Governance', 'Chain of Custody']
+
 
 Education:
   - Course: MBA in Information Technology Management
