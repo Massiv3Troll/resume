@@ -75,31 +75,51 @@ Skills:
       - Risk Management & Compliance
       - Policy & Standards Development
       - Vendor & Contract Management
+      - Third-Party Risk Management
+      - AI Governance & Acceptable Use Policy
+      - Security Awareness Training (KnowBe4)
+      - Executive Security Reporting (S2Score)
+      - Jira Project & Service Management
+
   - Family: Infrastructure & Security
     Items:
       - Windows & Linux Server Environments
       - Zero Trust Architecture
       - Endpoint Detection and Response (EDR)
-      - Firewalls and Network Segmentation
+      - Firewalls & Network Segmentation (FortiGate)
       - Backup, Disaster Recovery & Resilience
-      - Vulnerability Management
+      - Vulnerability Management (Tenable Nessus)
+      - Penetration Testing Coordination (FRSecure)
+      - 802.1X Network Access Control (NAC)
+      - OT/IT Network Segmentation
       - Microsoft 365 & Entra ID
       - Intune & Endpoint Management
-  - Family: Platforms & Data
+      - Windows Hello for Business & MFA
+      - Privileged Access Management (PAM)
+
+  - Family: Platforms & Tools
     Items:
+      - Epicor ERP
+      - Salesforce
       - Microsoft SQL Server
       - PostgreSQL
-      - Data Protection
+      - SharePoint & OneDrive Administration
+      - Jira Service Management (JSM)
+      - DocStar
       - Data Loss Prevention (DLP)
-      - Privileged Access Management (PAM)
       - SIEM & Security Monitoring
+      - Phish Alert & Email Security
+
   - Family: Cloud, Virtualization & Containers
     Items:
-      - VMware ESXi
+      - VMware ESXi & vCenter
       - Proxmox
+      - Citrix (CVAD / MCS / IGEL)
       - Docker
       - Kubernetes (K8s)
       - Hybrid Cloud Architecture
+      - Microsoft Autopilot & Intune Suite
+
   - Family: Networking
     Items:
       - Layer 2/3 Switching & Routing
@@ -107,9 +127,15 @@ Skills:
       - VPN & Secure Remote Access
       - Multi-Site Network Integration
       - FortiGate & Juniper EX Series
-  - Family: Automation
+      - Mist Wi-Fi (AP Deployment & Tuning)
+      - ISP & Circuit Management
+      - Out-of-Band (OOB) Management Networks
+
+  - Family: Automation & Development
     Items:
       - PowerShell
       - Bash
       - Python
       - Infrastructure as Code (IaC)
+      - REST API Integration
+      - Git & Version Control
