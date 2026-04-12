@@ -1,0 +1,22 @@
+{{ $data := .}}
+{{ range $data.Volunteering }}
+<div class="volunteering__item">
+  <div class="volunteering__header">
+    <div class="volunteering__left">
+      <h3 class="volunteering__role">{{ .Role }}</h3>
+      <div class="volunteering__org">{{ .Organization }}</div>
+    </div>
+    <div class="volunteering__right">
+      <div class="volunteering__place">{{ .Place }}</div>
+      <div class="volunteering__date">{{ .Date }}</div>
+    </div>
+  </div>
+  {{ if .Details }}
+  <ul class="volunteering__details">
+    {{ range .Details }}
+    <li class="volunteering__detail">{{ safeHTML . }}</li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</div>
+{{ end }}
