@@ -4,15 +4,15 @@ BasicInfo:
   Photo: favicon.ico
   Contacts:
     - Icon: fas fa-phone
-      Info: <a class="contact__link" href="tel:15074025415" target="_blank">+1 507 402 5415</a>
+      Info: '<a class="contact__link" href="tel:15074025415" target="_blank">+1 507 402 5415</a>'
     - Icon: fas fa-envelope
-      Info: <a class="contact__link" href="mailto:dahlen.alex@proton.me" target="_blank">dahlen.alex@proton.me</a>
+      Info: '<a class="contact__link" href="mailto:dahlen.alex@proton.me" target="_blank">dahlen.alex@proton.me</a>'
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://adahlen.ninja" target="_blank">adahlen.ninja</a>
+      Info: '<a class="contact__link" href="https://adahlen.ninja" target="_blank">adahlen.ninja</a>'
     - Icon: fas fa-map-marker-alt
       Info: Minnesota, USA
 
-Profile: IT and cybersecurity leader with enterprise experience designing, securing, and operating resilient infrastructure in regulated and manufacturing environments. Proven Incident Response Commander, security program owner, and infrastructure strategist with a completed MBA in Information Technology Management. Known for translating technical risk into business decisions, establishing IT governance and standards, and leading Zero Trust and defense‑in‑depth initiatives that protect operations and enable growth.
+Executive Summary: IT and cybersecurity leader with a record of translating infrastructure investments into measurable business outcomes across manufacturing, distribution, and multi-site enterprise environments. Serves as Incident Response Commander, enterprise security program owner, and IT governance architect at a $200M+ manufacturer. Led organization-wide Zero Trust initiatives, multi-site infrastructure modernization, and disaster recovery programs achieving near-real-time RPO and sub-30-minute RTO. MBA in IT Management. Ready to step into an IT Director or CTO role where technology strategy drives operational excellence and competitive growth.
 
 Experience:
   - Employer: Wenger Corporation
@@ -21,21 +21,21 @@ Experience:
       - Title: IT Infrastructure and Security Lead
         Date: Sep 2023 - Present
         Details:
-          - Serve as Incident Response Commander, directing response to security and infrastructure incidents and briefing executive leadership on risk, impact, and remediation.
-          - Own the organization’s enterprise security program, including security tooling, policies, procedures, and incident response planning.
-          - Define and enforce IT standards, governance, and operating procedures across infrastructure and security domains.
-          - Lead infrastructure and security strategy supporting Zero Trust architecture, network segmentation, and vulnerability management.
-          - Evaluate, recommend, and implement technology solutions aligned with business risk tolerance, operational continuity, and long‑term strategy.
-          - Partner with IT leadership and business stakeholders to ensure systems support manufacturing, operations, and growth objectives.
+          - Serve as Incident Response Commander and co-lead of the annual executive tabletop exercise program, directing cross-functional response teams and briefing C-suite on risk, impact, and remediation strategy.
+          - Own the enterprise security program end-to-end — tooling selection, policy governance, incident response planning, and security awareness training deployed company-wide.
+          - Architect and enforce IT governance standards including a formal IT Steering Committee (ITSC) project intake, estimation, and prioritization framework supporting 40+ active projects across six business units.
+          - Led disaster recovery modernization achieving near-real-time RPO (5 minutes) and sub-30-minute RTO across Owatonna and Syracuse data centers — a step-change from 4-24 hour legacy recovery windows.
+          - Directed multi-site infrastructure integration for Texas Scenic (San Antonio) and Creative Conners (Cranston) acquisitions — deploying new firewalls, switching, wireless, domain migration, endpoint refresh, and ISP transitions.
+          - Managed enterprise security renewals and vendor relationships including Fortinet FortiClient EMS (600-seat), Tenable Nessus Professional, and MDR services, ensuring continuous vulnerability coverage.
+          - Defined Zero Trust architecture strategy, network segmentation standards, and vulnerability management programs aligned to manufacturing and operational continuity requirements.
         Badges: []
       - Title: Systems Administrator
         Date: May 2022 - Sep 2023
         Details:
-          - Administered enterprise Windows infrastructure supporting 250+ users in a Citrix environment.
-          - Led server, endpoint, and application administration across production systems.
-          - Supported network segmentation and Zero Trust initiatives, strengthening the organization’s security posture.
-          - Designed and implemented PowerShell automation to reduce operational overhead and improve reliability.
-          - Executed patching and vulnerability remediation across critical systems.
+          - Administered enterprise Windows and Citrix infrastructure supporting 250+ users across multiple facilities.
+          - Drove foundational network segmentation and Zero Trust initiatives that established the security baseline for future program expansion.
+          - Designed and implemented PowerShell automation reducing manual operational overhead and improving system reliability.
+          - Executed monthly patching and vulnerability remediation cycles across production systems, endpoints, and servers.
         Badges: []
   - Employer: Freeborn County Minnesota
     Place: Albert Lea, MN
@@ -43,17 +43,16 @@ Experience:
       - Title: Systems Administrator
         Date: Jul 2020 - May 2022
         Details:
-          - Managed Windows server infrastructure supporting law enforcement and emergency response systems, ensuring high availability and security.
-          - Administered Active Directory, SQL Server, IIS, SSL, and file services in a regulated public‑sector environment.
-          - Built and deployed workstation images and software using SCCM.
-          - Delivered end‑user support via in‑person, phone, and email channels.
+          - Managed Windows server infrastructure for law enforcement and emergency response systems in a regulated public-sector environment requiring high availability and strict security controls.
+          - Administered Active Directory, SQL Server, IIS, SSL certificates, and file services supporting mission-critical county operations.
+          - Built and deployed standardized workstation images using SCCM, accelerating onboarding and reducing configuration drift.
         Badges: []
 
 Education:
   - Course: MBA in Information Technology Management
     Place: Southern New Hampshire University
     Date: May 2024 - Aug 2025
-    Details: "Technology leadership and strategy • IT governance and risk management • Financial and organizational decision‑making"
+    Details: "Technology leadership & strategy • IT governance & risk management • Financial and organizational decision-making"
   - Course: BSc in Computer Information Systems
     Place: Neumont College of Computer Science
     Date: Sep 2016 - Aug 2019
@@ -64,8 +63,10 @@ Skills:
       - IT Strategy & Roadmapping
       - Cybersecurity Governance
       - Incident Response Leadership
+      - IT Steering Committee Facilitation
       - Risk Management & Compliance
       - Policy & Standards Development
+      - Vendor & Contract Management
   - Family: Infrastructure & Security
     Items:
       - Windows & Linux Server Environments
@@ -73,33 +74,34 @@ Skills:
       - Endpoint Detection and Response (EDR)
       - Firewalls and Network Segmentation
       - Backup, Disaster Recovery & Resilience
+      - Vulnerability Management
+      - Microsoft 365 & Entra ID
+      - Intune & Endpoint Management
   - Family: Platforms & Data
     Items:
       - Microsoft SQL Server
       - PostgreSQL
-      - MongoDB
       - Data Protection
       - Data Loss Prevention (DLP)
       - Privileged Access Management (PAM)
+      - SIEM & Security Monitoring
   - Family: Cloud, Virtualization & Containers
     Items:
       - VMware ESXi
       - Proxmox
-      - QEMU
       - Docker
       - Kubernetes (K8s)
+      - Hybrid Cloud Architecture
   - Family: Networking
     Items:
       - Layer 2/3 Switching & Routing
       - SD-WAN
-      - VPN
-      - Secure Remote Access
+      - VPN & Secure Remote Access
+      - Multi-Site Network Integration
+      - FortiGate & Juniper EX Series
   - Family: Automation
     Items:
       - PowerShell
       - Bash
       - Python
-
-#Languages:
-#  - Name: English
-#    Level: Native
+      - Infrastructure as Code (IaC)
