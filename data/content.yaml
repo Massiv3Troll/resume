@@ -2,15 +2,15 @@ BasicInfo:
   FirstName: Alex
   LastName: Dahlen
   Photo: favicon.ico
-  Contacts:
+Contacts:
     - Icon: fas fa-phone
-      Info: '<a class="contact__link" href="tel:15074025415" target="_blank">+1 507 402 5415</a>'
+      Info: +1 507 402 5415
     - Icon: fas fa-envelope
-      Info: '<a class="contact__link" href="mailto:dahlen.alex@proton.me" target="_blank">dahlen.alex@proton.me</a>'
+      Info: dahlen.alex@proton.me
     - Icon: fas fa-globe
-      Info: '<a class="contact__link" href="https://adahlen.ninja" target="_blank">adahlen.ninja</a>'
+      Info: adahlen.ninja
     - Icon: fas fa-map-marker-alt
-      Info: Minnesota, USA
+      Info: Owatonna, MN
 
 Profile: Infrastructure and security lead at a multi-site manufacturer, responsible for enterprise security program ownership, disaster recovery, and IT governance. Led Zero Trust initiatives, acquisition integrations, and DR modernization reducing recovery windows from hours to minutes.
 
