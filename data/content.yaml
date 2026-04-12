@@ -2,7 +2,7 @@ BasicInfo:
   FirstName: Alex
   LastName: Dahlen
   Photo: favicon.ico
-Contacts:
+  Contacts:
     - Icon: fas fa-phone
       Info: +1 507 402 5415
     - Icon: fas fa-envelope
