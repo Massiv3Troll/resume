@@ -11,6 +11,8 @@ BasicInfo:
       Info: adahlen.ninja
     - Icon: fab fa-linkedin
       Info: linkedin.com/in/dahlenalex
+    - Icon: fab fa-github
+      Info: github.com/Massiv3Troll
     - Icon: fas fa-map-marker-alt
       Info: Owatonna, MN
 
