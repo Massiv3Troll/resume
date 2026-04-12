@@ -23,12 +23,15 @@ Experience:
         Details:
           - Serve as Incident Response Commander and co-lead of the annual executive tabletop exercise program, directing cross-functional response teams and briefing C-suite on risk, impact, and remediation strategy.
           - Own the enterprise security program end-to-end — tooling selection, policy governance, incident response planning, and security awareness training deployed company-wide.
+          - Improved organizational security posture by 7.5% as measured by annual S2Score validation, from 640 to 688, outperforming the manufacturing industry average of 600.
+          - Chair monthly security status briefings with IT leadership and executive stakeholders, translating technical security metrics into business risk language.
           - Architect and enforce IT governance standards including a formal IT Steering Committee project intake, estimation, and prioritization framework supporting 40+ active projects across six business units.
           - Lead disaster recovery modernization achieving near-real-time RPO of five minutes and RTO under thirty minutes across primary and secondary data centers — a step-change from legacy recovery windows of four to twenty-four hours.
           - Direct multi-site infrastructure integration for acquired subsidiaries — deploying firewalls, switching, wireless, domain migration, endpoint refresh, and ISP transitions across each new location.
           - Manage enterprise security renewals and vendor relationships across endpoint protection, vulnerability management, and managed detection and response services, ensuring continuous coverage.
-          - Define Zero Trust architecture strategy, network segmentation standards, and vulnerability management programs aligned to manufacturing and operational continuity requirements.
-        Badges: ['IT Strategy', 'Incident Response', 'Zero Trust', 'Disaster Recovery', 'Governance', 'Vendor Management', 'FortiGate', 'Tenable', 'Entra ID', 'MDR']
+          - Define Zero Trust architecture strategy, network segmentation standards, 802.1X network access control policies, and vulnerability management programs aligned to manufacturing and operational continuity requirements.
+          - Architect and enforce least-privilege access controls across managed endpoints using Intune Endpoint Privilege Management, eliminating standing local admin rights without impacting operational workflows.
+        Badges: ['IT Strategy', 'Incident Response', 'Zero Trust', 'Disaster Recovery', 'Governance', 'Vendor Management', 'FortiGate', 'Tenable', 'Entra ID', 'MDR', '802.1X/NAC', 'Intune EPM']
       - Title: Systems Administrator
         Date: May 2022 - Sep 2023
         Details:
@@ -80,9 +83,11 @@ Skills:
   - Family: Security & Risk
     Items:
       - Zero Trust Architecture
+      - 802.1X Network Access Control (NAC)
       - Vulnerability Management & Pen Test Coordination
       - Endpoint Detection & Response (EDR/MDR)
       - Identity & Access Management (Entra ID, PAM, MFA)
+      - Endpoint Privilege Management (Intune EPM)
       - Data Loss Prevention (DLP)
       - SIEM & Security Monitoring
       - OT/IT Network Segmentation
