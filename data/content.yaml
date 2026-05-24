@@ -16,7 +16,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Owatonna, MN
 
-Profile: Infrastructure and security lead at a multi-site manufacturer, responsible for enterprise security program ownership, disaster recovery, and IT governance. Led Zero Trust initiatives, acquisition integrations, and DR modernization reducing recovery windows from hours to minutes.
+Profile: Multi-faceted Infrastructure and Cybersecurity professional with deep experience spanning enterprise systems administration, security program ownership, and remote connectivity infrastructure. Proven track record of managing multi-site endpoints (Intune, SCCM), secure identity environments (Active Directory, Entra ID), and virtualized workloads while leading Zero Trust architecture initiatives. Exceptional cross-functional communicator skilled in driving technical operations, automated lifecycle management, and high-stakes incident response.
 
 Experience:
   - Employer: Wenger Corporation
@@ -25,26 +25,23 @@ Experience:
       - Title: IT Infrastructure and Security Lead
         Date: Sep 2023 - Present
         Details:
-          - Serve as Incident Response Commander and co-lead of the annual executive tabletop exercise program, directing cross-functional response teams and briefing C-suite on risk, impact, and remediation strategy.
-          - Own the enterprise security program end-to-end — tooling selection, policy governance, incident response planning, and security awareness training deployed company-wide.
-          - Improved organizational security posture by 7.5% as measured by annual S2Score validation, from 640 to 688, outperforming the manufacturing industry average of 600.
-          - Chair monthly security status briefings with IT leadership and executive stakeholders, translating technical security metrics into business risk language.
-          - Architect and enforce IT governance standards including a formal IT Steering Committee project intake, estimation, and prioritization framework supporting 40+ active projects across six business units.
-          - Lead disaster recovery modernization achieving near-real-time RPO of five minutes and RTO under thirty minutes across primary and secondary data centers — a step-change from legacy recovery windows of four to twenty-four hours.
-          - Direct multi-site infrastructure integration for acquired subsidiaries — deploying firewalls, switching, wireless, domain migration, endpoint refresh, and ISP transitions across each new location.
-          - Manage enterprise security renewals and vendor relationships across endpoint protection, vulnerability management, and managed detection and response services, ensuring continuous coverage.
-          - Define Zero Trust architecture strategy, network segmentation standards, 802.1X network access control policies, and vulnerability management programs aligned to manufacturing and operational continuity requirements.
-          - Architect and enforce least-privilege access controls across managed endpoints using Intune Endpoint Privilege Management, eliminating standing local admin rights without impacting operational workflows.
-        Badges: ['IT Strategy', 'Incident Response', 'Zero Trust', 'Disaster Recovery', 'Governance', 'Vendor Management', 'FortiGate', 'Tenable', 'Entra ID', 'MDR', '802.1X/NAC', 'Intune EPM']
+          - Own the enterprise security program end-to-end — directing tooling selection, policy governance, incident response planning, and identity/access provisioning architectures deployed company-wide.
+          - Architected and enforced least-privilege access controls across managed endpoints using Microsoft Intune Endpoint Privilege Management (EPM), eliminating standing local admin rights without disrupting operational workflows.
+          - Serve as Incident Response Commander, directing cross-functional response teams and briefing C-suite on risk, impact, and remediation strategy while co-leading annual executive tabletop exercises.
+          - Lead disaster recovery modernization achieving near-real-time RPO of five minutes and RTO under thirty minutes across primary and secondary data centers — a step-change reduction from legacy recovery windows.
+          - Direct multi-site infrastructure and endpoint integration for acquired subsidiaries — deploying firewalls, switching, wireless, domain migrations, endpoint refreshes, and ISP transitions across new locations.
+          - Improved organizational security posture by 7.5% as measured by annual S2Score validation (from 640 to 688), outperforming the manufacturing industry average of 600.
+          - Manage enterprise security renewals, hardware lifecycle planning, and vendor relationships across endpoint protection, vulnerability management, and managed detection (MDR) services.
+        Badges: ['Zero Trust', 'Intune EPM', 'Incident Response', 'Disaster Recovery', 'Entra ID', 'FortiGate', '802.1X/NAC', 'MDR', 'Vendor Management', 'Tenable', 'IT Strategy', 'Governance']
       - Title: Systems Administrator
         Date: May 2022 - Sep 2023
         Details:
-          - Administered enterprise Windows and Citrix infrastructure supporting 250+ users across multiple facilities, including approximately 100 virtual machines across production, pilot, development, and administration environments totaling roughly 50TB of managed storage.
-          - Led the HighJump Warehouse Management System upgrade, coordinating across IT, operations, and the vendor to minimize downtime impact on warehouse and distribution workflows.
-          - Drove foundational network segmentation and Zero Trust initiatives that established the security baseline for future program expansion.
-          - Designed and implemented PowerShell automation reducing manual operational overhead and improving system reliability.
-          - Executed monthly patching and vulnerability remediation cycles across production systems, endpoints, and servers.
-        Badges: ['PowerShell', 'Citrix', 'Windows Server', 'Zero Trust', 'Network Segmentation', 'Patch Management', 'Automation', 'VMware', 'HighJump WMS']
+          - Administered enterprise Windows and Citrix remote infrastructure supporting 250+ users across multiple facilities, including ~100 virtual machines across production, pilot, development, and administration environments totaling roughly 50TB of managed storage.
+          - Designed and implemented PowerShell automation scripts, significantly reducing manual operational service overhead and improving daily system reliability.
+          - Executed monthly patching, vulnerability remediation, and system maintenance cycles across production environments, endpoints, and servers.
+          - Drove foundational network segmentation and Zero Trust initiatives that established the secure access baselines for future program expansion.
+          - Led the HighJump Warehouse Management System upgrade, coordinating across IT, operations, and the vendor to minimize downtime impact on distribution workflows.
+        Badges: ['Citrix', 'PowerShell', 'Windows Server', 'Zero Trust', 'Network Segmentation', 'Patch Management', 'Automation', 'VMware', 'HighJump WMS']
   - Employer: Freeborn County Minnesota
     Place: Albert Lea, MN
     Positions:
@@ -52,12 +49,11 @@ Experience:
         Date: Jul 2020 - May 2022
         Details:
           - Managed Windows server infrastructure for law enforcement and emergency response systems in a regulated public-sector environment requiring high availability and strict security controls.
-          - Administered sole ownership of the WatchGuard body camera and digital evidence management system across police, sheriff, and prosecution offices — maintaining confidentiality, integrity, and availability of approximately 50TB of evidentiary data spanning multiple agencies.
-          - Ensured chain of custody compliance and access controls across a multi-agency evidence ecosystem with direct legal and prosecutorial dependencies.
-          - Administered Active Directory, SQL Server, IIS, SSL certificates, and file services supporting mission-critical county operations.
-          - Built and deployed standardized workstation images using SCCM, accelerating onboarding and reducing configuration drift.
-        Badges: ['Active Directory', 'Windows Server', 'SQL Server', 'SCCM', 'SSL/PKI', 'High Availability', 'WatchGuard', 'Digital Evidence Management', 'Data Governance', 'Chain of Custody']
-
+          - Administered Active Directory, group policies, user permissions, SQL Server, IIS, SSL certificates, and file services supporting mission-critical county operations.
+          - Built and deployed standardized workstation images using SCCM, accelerating employee onboarding, streamlining device setup, and reducing configuration drift.
+          - Administered sole ownership and high-availability support for the WatchGuard digital evidence management system across multiple agencies — maintaining confidentiality, data governance, and secure access controls for 50TB of evidentiary data.
+          - Resolved complex hardware, software, network, and access management troubleshooting requests under tight SLA expectations.
+        Badges: ['Active Directory', 'SCCM', 'Windows Server', 'High Availability', 'WatchGuard', 'Digital Evidence Management', 'SQL Server', 'SSL/PKI', 'Data Governance', 'Chain of Custody']
 
 Education:
   - Course: MBA in Information Technology Management
@@ -72,47 +68,42 @@ Volunteering:
     Organization: Hartland Fire Department
     Place: Hartland, MN
     Details:
-      - Certified Emergency Medical Responder (EMR) providing pre-hospital emergency care for a rural community of ~400 residents across Hartland and surrounding areas
-      - Responds to medical emergencies, vehicle accidents, and fire incidents as part of a volunteer department serving a rural community with limited emergency service coverage
-      - Applies ICS/NIMS incident command principles in live emergency response, directly complementing enterprise Incident Response Commander responsibilities at Wenger Corporation
+      - Certified Emergency Medical Responder (EMR) providing pre-hospital emergency care for a rural community of ~400 residents across Hartland and surrounding areas.
+      - Responds to medical emergencies, vehicle accidents, and fire incidents as part of a volunteer department serving a rural community with limited emergency service coverage.
+      - Applies ICS/NIMS incident command principles in live emergency response, directly reinforcing the calm, structured problem-solving and communication required in high-priority IT incidents and system outages.
 
 Skills:
-  - Family: Executive & Leadership
+  - Family: Infrastructure, Cloud & Endpoints
     Items:
-      - IT Strategy & Roadmapping
-      - Cybersecurity Governance & Program Ownership
-      - Incident Response Leadership (ICS/NIMS)
-      - IT Steering Committee Facilitation
-      - Vendor & Third-Party Risk Management
-      - Risk Management & Compliance
-      - Policy & Standards Development
-      - AI Governance & Acceptable Use
-
-  - Family: Security & Risk
-    Items:
-      - Zero Trust Architecture
-      - 802.1X Network Access Control (NAC)
-      - Vulnerability Management & Pen Test Coordination
-      - Endpoint Detection & Response (EDR/MDR)
-      - Identity & Access Management (Entra ID, PAM, MFA)
-      - Endpoint Privilege Management (Intune EPM)
-      - Data Loss Prevention (DLP)
-      - SIEM & Security Monitoring
-      - OT/IT Network Segmentation
-
-  - Family: Infrastructure & Platforms
-    Items:
-      - Disaster Recovery & Business Continuity
+      - Microsoft 365, Google Workspace & Cloud Collaboration
+      - Microsoft Intune, Intune EPM & SCCM
+      - Windows & macOS Endpoint Configuration & Lifecycle Management
+      - Citrix (CVAD/MCS) & Remote Access Tools
       - Hybrid Cloud & Virtualization (VMware, Proxmox)
-      - Microsoft 365 & Intune
-      - Citrix (CVAD/MCS)
-      - Firewalls & SD-WAN (FortiGate)
-      - Multi-Site Network Integration
+      - Multi-Site Network Integration & High Availability
 
-  - Family: Automation & Development
+  - Family: Cybersecurity & Risk
+    Items:
+      - Zero Trust Architecture & Least-Privilege Enforcement
+      - Identity & Access Management (Active Directory, Entra ID, PAM, MFA)
+      - Firewalls, SD-WAN (FortiGate) & Network Segmentation
+      - Vulnerability Management (Tenable) & Patch Deployment
+      - Endpoint Detection & Response (EDR/MDR) & SIEM Monitoring
+      - 802.1X Network Access Control (NAC) & DLP Policies
+
+  - Family: Automation & Systems Control
     Items:
       - PowerShell & Bash Scripting
-      - Infrastructure as Code (IaC)
-      - Python
-      - REST API Integration
-      - Git & Version Control
+      - Infrastructure as Code (IaC) & Python
+      - REST API Integration & Git Version Control
+      - Database Infrastructure (SQL Server) & IIS Configuration
+      - Standardized Workstation Imaging & Configuration Drift Control
+
+  - Family: Leadership & Governance
+    Items:
+      - Incident Response Leadership (Incident Commander / ICS / NIMS)
+      - IT Strategy, Budgeting & Roadmapping
+      - Vendor & Third-Party Risk Management
+      - Cybersecurity Governance & Compliance
+      - IT Steering Committee Facilitation
+      - Technical Communication & Cross-Functional Team Support
